@@ -1,0 +1,25 @@
+pkg/router/controller/route_secret_manager_test.go
+  s_8c14f872fb2acb::t_cd672d3c1dc052 1817-1896
+  s_8c14f872fb2acb::t_c25598e00a73d9 8
+pkg/router/controller/route_secret_manager.go
+  s_8c14f872fb2acb::t_f56de8546171bc 166-171
+  s_8c14f872fb2acb::t_f6793dfbc5c604 77-87
+  s_8c14f872fb2acb::t_6f5f2c3a617611 423-431
+  s_8c14f872fb2acb::t_d60d0a81b6e889 64-76,88-97
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.19",
+  "base_commit_sha": "8960e14a409c3e8da63779bda95850899cfd6488",
+  "prompts": {},
+  "sessions": {
+    "s_8c14f872fb2acb": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "2d499634-9beb-4955-8007-34c40d8248f0",
+        "model": "claude-sonnet-5"
+      },
+      "human_author": "Brett Tofel <btofel@redhat.com>"
+    }
+  }
+}
