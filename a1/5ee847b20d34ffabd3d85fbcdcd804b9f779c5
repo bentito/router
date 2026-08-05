@@ -1,0 +1,30 @@
+pkg/router/controller/route_secret_manager.go
+  s_8c14f872fb2acb::t_f436673f620144 263-264,267
+  s_8c14f872fb2acb::t_1a8650d9873742 450-452,456-465
+  s_8c14f872fb2acb::t_314ea5158b56c9 228-233,244-251
+  s_8c14f872fb2acb::t_45331d84e2298f 177-178,181
+  s_8c14f872fb2acb::t_31b9c09ba2fea5 320-328,331,333-335,339-340,345-346,349
+  s_8c14f872fb2acb::t_d60d0a81b6e889 64-76,88-97
+  s_8c14f872fb2acb::t_f6793dfbc5c604 77-87
+  s_8c14f872fb2acb::t_202b3796b3b585 200-201,204
+  s_8c14f872fb2acb::t_6f5f2c3a617611 449
+pkg/router/controller/route_secret_manager_test.go
+  s_8c14f872fb2acb::t_c25598e00a73d9 8
+  s_8c14f872fb2acb::t_cd672d3c1dc052 1817-1896
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.19",
+  "base_commit_sha": "a15ee847b20d34ffabd3d85fbcdcd804b9f779c5",
+  "prompts": {},
+  "sessions": {
+    "s_8c14f872fb2acb": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "2d499634-9beb-4955-8007-34c40d8248f0",
+        "model": "claude-sonnet-5"
+      },
+      "human_author": null
+    }
+  }
+}
