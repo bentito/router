@@ -1,0 +1,19 @@
+pkg/router/routeapihelpers/validation.go
+  s_773614e8d72b5e::t_0d90b1796cc01b 515-518
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.19",
+  "base_commit_sha": "b4aafbf204894e2c6bb5f6a6302e210bc758de9f",
+  "prompts": {},
+  "sessions": {
+    "s_773614e8d72b5e": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "ec70bc4b-ca0e-4718-9780-55e92c019e9d",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "Brett Tofel <btofel@redhat.com>"
+    }
+  }
+}
