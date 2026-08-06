@@ -1,0 +1,31 @@
+pkg/router/controller/route_secret_manager.go
+  s_773614e8d72b5e::t_9291952b465c35 580
+  s_773614e8d72b5e::t_fe12fc7bc27e1c 31-36,445-458,461,467-473,476-479,573-579
+pkg/router/controller/route_secret_manager_test.go
+  s_773614e8d72b5e::t_fe12fc7bc27e1c 297-299,521-523,748-750,955-957,1515,1521,1523,1529-1533,1551-1575,1648-1649
+pkg/router/controller/status_test.go
+  s_773614e8d72b5e::t_fe12fc7bc27e1c 53-56,75-76
+pkg/router/template/types.go
+  s_773614e8d72b5e::t_fe12fc7bc27e1c 90-99
+pkg/router/template/router_test.go
+  s_773614e8d72b5e::t_fe12fc7bc27e1c 1519-1600
+pkg/router/template/router.go
+  s_773614e8d72b5e::t_82d55c2d7fe244 1610-1611
+  s_773614e8d72b5e::t_fe12fc7bc27e1c 1108,1213-1220,1595-1609
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.19",
+  "base_commit_sha": "9f6bcd584c9de6323995232049ee3281dd45498d",
+  "prompts": {},
+  "sessions": {
+    "s_773614e8d72b5e": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "ec70bc4b-ca0e-4718-9780-55e92c019e9d",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "Brett Tofel <btofel@redhat.com>"
+    }
+  }
+}
