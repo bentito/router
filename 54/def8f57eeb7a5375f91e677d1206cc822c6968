@@ -1,0 +1,19 @@
+pkg/router/controller/route_secret_manager.go
+  s_08467f0c8ba6e3::t_e538b771fb6e5b 465-474
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.19",
+  "base_commit_sha": "54def8f57eeb7a5375f91e677d1206cc822c6968",
+  "prompts": {},
+  "sessions": {
+    "s_08467f0c8ba6e3": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "44da21d6-a7ab-4f1f-9485-afacac4c9548",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": null
+    }
+  }
+}
