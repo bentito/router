@@ -1,0 +1,34 @@
+pkg/router/template/router_test.go
+  s_08467f0c8ba6e3::t_a0a9e5f79ce3ff 1527,1553,1565,1577
+pkg/router/controller/route_secret_manager_test.go
+  s_08467f0c8ba6e3::t_83aa114c83a33c 1146-1147,1576-1577,1808,1850-1851
+  s_08467f0c8ba6e3::t_aadc13596a641e 1876
+  s_08467f0c8ba6e3::t_d257e4a9a0e969 1909
+  s_08467f0c8ba6e3::t_5c18ba7b899ba3 1919
+pkg/router/template/router.go
+  s_08467f0c8ba6e3::t_9d3f0ad7b2ba4d 1602-1603
+  s_08467f0c8ba6e3::t_50ab763cc80122 1110
+  s_08467f0c8ba6e3::t_1a486ed8e91343 52-53
+pkg/router/controller/route_secret_manager.go
+  s_08467f0c8ba6e3::t_2f6f704e547cb3 95
+  s_08467f0c8ba6e3::t_d27e517e789d8b 610-611
+  s_08467f0c8ba6e3::t_890b29d10b898a 256,315,353,410,433,512,600
+  s_08467f0c8ba6e3::t_b33799f72f2927 16
+  s_08467f0c8ba6e3::t_3daf7410efd8f3 100
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.19",
+  "base_commit_sha": "f09696919bf0527feb2d0a5365c57ea4a76b7738",
+  "prompts": {},
+  "sessions": {
+    "s_08467f0c8ba6e3": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "44da21d6-a7ab-4f1f-9485-afacac4c9548",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": null
+    }
+  }
+}
