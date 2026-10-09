@@ -1,0 +1,31 @@
+pkg/router/controller/route_secret_manager_test.go
+  s_97b820c1e86951::t_d7f7db27a52390 22,1372,1391-1392,1536-1540,1543,1549-1550,1590-1780,1840,1856-1860,1862,1879-1880,1946,1962-1963,2032,2091,2132
+pkg/router/controller/shared_secret_manager.go
+  s_97b820c1e86951::t_95ba11102f53e5 128,183-187
+pkg/router/controller/shared_secret_manager_test.go
+  s_97b820c1e86951::t_2d5e31cfa4cd16 8,10,146-208
+pkg/cmd/infra/router/template.go
+  s_97b820c1e86951::t_b520be8eac713a 833-835
+pkg/router/controller/route_secret_manager.go
+  s_97b820c1e86951::t_f476cf4111d7fc 15,24,54-65,110-115,127-236,295-296,316,337,363-365,388,415-423,426-430,438,462-463,466,468,470-480,484,489,492,495-513,519-527,543-548,555-564,567-573,576-581,584-593,599-601,603-604,607-613,616,635-637,654-658,662-667,690,709,736-739,745,748
+go.mod
+  s_97b820c1e86951::t_899f257b1425a0 23
+pkg/router/router_test.go
+  s_97b820c1e86951::t_51750e8f68ad3b 992-1011
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.19",
+  "base_commit_sha": "1b7a2903835a0b1ed1bfcd5ca53279b4bef5c08a",
+  "prompts": {},
+  "sessions": {
+    "s_97b820c1e86951": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1210d-92ca-7c52-a6d1-f1b9044f0298",
+        "model": "unknown"
+      },
+      "human_author": "Brett Tofel <btofel@redhat.com>"
+    }
+  }
+}
