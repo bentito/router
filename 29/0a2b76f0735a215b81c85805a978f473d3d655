@@ -1,0 +1,23 @@
+pkg/router/controller/contention.go
+  s_97b820c1e86951::t_f0347709f45aec 40-41,48
+pkg/router/controller/status.go
+  s_97b820c1e86951::t_ece648b8228a5c 237-242
+pkg/router/controller/status_test.go
+  s_97b820c1e86951::t_2b25273a5a2190 385-462
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.19",
+  "base_commit_sha": "290a2b76f0735a215b81c85805a978f473d3d655",
+  "prompts": {},
+  "sessions": {
+    "s_97b820c1e86951": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1210d-92ca-7c52-a6d1-f1b9044f0298",
+        "model": "unknown"
+      },
+      "human_author": "Brett Tofel <btofel@redhat.com>"
+    }
+  }
+}
